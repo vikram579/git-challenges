@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "t2.micro" "name" {
-    bucket = "sgfvbnvnnvnvnvik"
+    bucket = "t2.nano"
     tag = "sushma"
   
 }
