@@ -2,7 +2,7 @@ provider "aws" {
     
 }
 
-resource "aws_s3_bucket" "name" {
+resource "t2.micro" "name" {
     bucket = "sgfvbnvnnvnvnvik"
     tag = "sushma"
   
